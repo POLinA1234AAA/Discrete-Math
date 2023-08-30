@@ -1,0 +1,23 @@
+/Users/polina/lab4_disc/venv/bin/python /Users/polina/lab4_disc/lab_try.py
+Eigenvalue 1: 2.69812
+Eigenvector 1: [-0.56288816 -0.26491066 -0.57817948 -0.52790884]
+Max error for Eigenvalue 1: 1.7763568394002505e-15
+
+Eigenvalue 2: 4.15534
+Eigenvector 2: [-0.56288816 -0.26491066 -0.57817948 -0.52790884]
+Max error for Eigenvalue 2: 3.850861620668839
+
+Eigenvalue 3: 6.15782
+Eigenvector 3: [-0.56288816 -0.26491066 -0.57817948 -0.52790884]
+Max error for Eigenvalue 3: 2.059972800075102
+
+Eigenvalue 4: 8.98345
+Eigenvector 4: [-0.56288816 -0.26491066 -0.57817948 -0.52790884]
+Max error for Eigenvalue 4: 2.8970392610416384
+
+
+Process finished with exit code 0
+
+
+
+
